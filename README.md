@@ -24,4 +24,5 @@
    git clone [https://github.com/NguyenThanhPhat05/Fair-Course-Registration-Waitlist-System.git](https://github.com/NguyenThanhPhat05/Fair-Course-Registration-Waitlist-System.git)
 
 2.Cơ sở dữ liệu: Import file .sql từ thư mục /database vào Microsoft SQL Server.
+
 3.Chạy Backend: Mở thư mục /backend bằng IntelliJ IDEA hoặc VS Code, cấu hình thông tin kết nối database trong file application.properties rồi khởi chạy ứng dụng Spring Boot.
